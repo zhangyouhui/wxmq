@@ -6,10 +6,10 @@ logging:
 wx:
   mp:
     configs:
-      - appId: wx770521345b5a761c
-        secret: 3c8c70b398d3ad14d06c813cc740ea1a
-        token: 999
-        aesKey: jbWTSPxQ3Hpkp2cJaojveg6qf2OUQEu1QpllqezFWva
+      - appId: ## 公众号appid
+        secret: ## 秘钥
+        token: ## token
+        aesKey: ## key
 server:
   port: 80
 
